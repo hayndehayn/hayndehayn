@@ -1,8 +1,7 @@
 ![Header](https://github.com/hayndehayn/hayndehayn/blob/main/greetings.png)
 
 👋 Ello! I’m a full-stack developer who loves learning and exploring new coding technologies.
- I love practicing to improve my skills and gain new knowledge. I love coding using Javascript. 
-
+ I love practicing to improve my skills and gain new knowledge. JavaScript is one of my favorite languages to code in. 
 
 ___
 
@@ -27,7 +26,7 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
   
   <img width="12" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg' height="30" alt="nodejs logo"/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' height="30" alt="nodejs logo"/>
   
   <img width="12" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg' height="30" alt="tailwind logo"/>
@@ -44,6 +43,6 @@ ___
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"/>
   
-<img width="12" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="rmongodb logo"/>
 </div>
