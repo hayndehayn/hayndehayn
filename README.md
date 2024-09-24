@@ -1,8 +1,7 @@
 ![Header](https://github.com/hayndehayn/hayndehayn/blob/main/greetings.png)
 
-<div align="left" style="font-size: 18px;">
-👋 Ello! I’m a full-stack developer who loves learning and exploring new coding technologies. I love practicing to improve my skills and gain new knowledge.
-</div>
+👋 Ello! I’m a full-stack developer who loves learning and exploring new coding technologies. 
+I love practicing to improve my skills and gain new knowledge.
 
 ___
 
