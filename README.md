@@ -4,6 +4,8 @@
 👋 Ello! I’m a full-stack developer who loves learning and exploring new coding technologies. I love practicing to improve my skills and gain new knowledge.
 </div>
 
+___
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hayndehayn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hayndehayn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="200" alt="languages graph"  />
