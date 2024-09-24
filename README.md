@@ -1,6 +1,6 @@
 ![Header](https://github.com/hayndehayn/hayndehayn/blob/main/greetings.png)
 
-<div align="left">
+<div align="left" style="font-size: 18px;">
 👋 Ello! I’m a full-stack developer who loves learning and exploring new coding technologies. I love practicing to improve my skills and gain new knowledge.
 </div>
 
@@ -12,7 +12,7 @@ ___
 </div>
 
 ___
-
+## Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
