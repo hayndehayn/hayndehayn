@@ -1,7 +1,6 @@
 ![Header](https://github.com/hayndehayn/hayndehayn/blob/main/greetings.png)
 
-👋 Ello! I’m a full-stack developer who loves learning and exploring new coding technologies.
- I love practicing to improve my skills and gain new knowledge. JavaScript is one of my favorite languages to code in. 
+👋 Ello! I’m a full-stack developer who enjoys learning and exploring new coding technologies. I like practicing to improve my skills and gain new knowledge. JavaScript is one of my favorite languages to code in.
 
 ___
 
