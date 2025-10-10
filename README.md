@@ -1,7 +1,4 @@
 ![Header](https://github.com/hayndehayn/hayndehayn/blob/main/greetings.jpg)
-
-👋 Ello! I’m a passionate Frontend Developer focused on building responsive, high-performance web applications with React, TypeScript, and Node.js. I love transforming complex ideas into intuitive interfaces and continuously improving code quality. Currently looking for a Junior Frontend role where I can grow and contribute to real-world projects.
-
 ___
 
 <div align="left">
