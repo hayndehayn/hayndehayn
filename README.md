@@ -1,8 +1,7 @@
 <div align="left">
 
 <pre>
-                                                                                                     
-                            
+                                                                                                                              
 #       #   #   #    #### #   #               :+*:                
 #        # #   # #  #   # #   #            :*%%%%%:               
 #         #   #####  #### #####           *%%%%%%%%%:             
@@ -28,8 +27,6 @@
 
 </div>
 
-
-
-
+[![/home/3313 profile views](https://u8views.com/api/v1/github/profiles/103996012/views/day-week-month-total-count.svg)](https://u8views.com/github/hayndehayn)
 
 
